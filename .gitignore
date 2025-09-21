@@ -19,6 +19,6 @@ wwwroot/
 node_modules
 **/*.suo
 **/DocumentLayout.backup.json
-**/DocumentLayout.json
+/DocumentLayout.json
 
 
