@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|e:\\github\\general.appliction.serviceapi\\service.webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|e:\\github\\general.appliction.serviceapi\\service.webapi\\registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|solutionrelative:registerservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|e:\\github\\general.appliction.serviceapi\\service.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|e:\\github\\general.appliction.serviceapi\\service.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0D8C0-B4CD-4075-80A0-1D890704ADC7}|..\\Service.Generativelogic\\Service.Generativelogic.csproj|e:\\github\\general.appliction.serviceapi\\service.generativelogic\\accountservice\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|e:\\github\\general.appliction.serviceapi\\service.webapi\\service.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6ED29522-2F68-4230-AF89-1FE92EC07FB4}|Service.WebAPI.csproj|solutionrelative:service.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EDE914-D627-4F01-9182-9DC5D0197135}|..\\Service.Models\\Service.Models.csproj|e:\\github\\general.appliction.serviceapi\\service.models\\logindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A0D8C0-B4CD-4075-80A0-1D890704ADC7}|..\\Service.Generativelogic\\Service.Generativelogic.csproj|e:\\github\\general.appliction.serviceapi\\service.generativelogic\\interfaces\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E92A883-7EB7-4F61-A5F6-82613A2E975F}|..\\Service.DaataAccess\\Service.DaataAccess.csproj|e:\\github\\general.appliction.serviceapi\\service.daataaccess\\servicedomain.models\\odccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterServices.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\RegisterServices.cs",
+              "RelativeDocumentMoniker": "RegisterServices.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\RegisterServices.cs",
+              "RelativeToolTip": "RegisterServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:50:49.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:50:31.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T14:50:26.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Service.WebAPI",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\Service.WebAPI.csproj",
+              "RelativeDocumentMoniker": "Service.WebAPI.csproj",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\Service.WebAPI.csproj",
+              "RelativeToolTip": "Service.WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T14:49:57.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDetails.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.Models\\LoginDetails.cs",
+              "RelativeDocumentMoniker": "..\\Service.Models\\LoginDetails.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.Models\\LoginDetails.cs",
+              "RelativeToolTip": "..\\Service.Models\\LoginDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:49:23.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.WebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T14:49:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ODCContext.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.DaataAccess\\ServiceDomain.Models\\ODCContext.cs",
+              "RelativeDocumentMoniker": "..\\Service.DaataAccess\\ServiceDomain.Models\\ODCContext.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.DaataAccess\\ServiceDomain.Models\\ODCContext.cs",
+              "RelativeToolTip": "..\\Service.DaataAccess\\ServiceDomain.Models\\ODCContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T13:49:45.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.Generativelogic\\Interfaces\\IAccountService.cs",
+              "RelativeDocumentMoniker": "..\\Service.Generativelogic\\Interfaces\\IAccountService.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.Generativelogic\\Interfaces\\IAccountService.cs",
+              "RelativeToolTip": "..\\Service.Generativelogic\\Interfaces\\IAccountService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:46:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.Generativelogic\\AccountService\\AccountService.cs",
+              "RelativeDocumentMoniker": "..\\Service.Generativelogic\\AccountService\\AccountService.cs",
+              "ToolTip": "E:\\GitHub\\General.Appliction.ServiceAPI\\Service.Generativelogic\\AccountService\\AccountService.cs",
+              "RelativeToolTip": "..\\Service.Generativelogic\\AccountService\\AccountService.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAewEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T12:46:36.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

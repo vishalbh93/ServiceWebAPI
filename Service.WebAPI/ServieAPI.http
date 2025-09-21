@@ -1,0 +1,6 @@
+@ServieAPI_HostAddress = http://localhost:5211
+
+GET {{ServieAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
