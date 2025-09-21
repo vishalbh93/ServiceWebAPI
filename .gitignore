@@ -9,7 +9,7 @@ _ReSharper.*
 packages
 .vs/
 *.vsidx
-/v17/**/*.json
+**/v17/**/*.json
 wwwroot/
 obj/
 wwwroot/
