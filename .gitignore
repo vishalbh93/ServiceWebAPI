@@ -18,4 +18,5 @@ wwwroot/
 **/.vs/OrientApplication/
 node_modules
 **/*.suo
-**/*.json
+**/DocumentLayout.backup.json
+
