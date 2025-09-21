@@ -1,12 +1,12 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Service.Generativelogic.Interfaces;
 using Newtonsoft.Json;
-using Service.Models;
 using Service.DaataAccess.ServiceDomain.Models;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
+using Service.Models;
 
 namespace Service.Generativelogic.AccountService
 {

@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Service.Generativelogic.Interfaces;
-using Service.Models;
+using Service.ServiceModels;
 
 namespace Servie.ServiceWebAPI.Controllers
 {

@@ -1,4 +1,4 @@
-﻿namespace Service.Models
+﻿namespace Service.ServiceModels
 {
     public class LoginDetails
     {

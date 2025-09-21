@@ -9,7 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Service.DaataAccess\Service.DaataAccess.csproj" />
     <ProjectReference Include="..\Service.Generativelogic\Service.Generativelogic.csproj" />
-    <ProjectReference Include="..\Service.Models\Service.Models.csproj" />
+    <ProjectReference Include="..\Service.ServiceModels\Service.ServiceModels.csproj" />
   </ItemGroup>
 
 </Project>
