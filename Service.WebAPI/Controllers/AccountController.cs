@@ -2,7 +2,7 @@
 using Service.Generativelogic.Interfaces;
 using Service.Models;
 
-namespace Servie.WebAPI.Controllers
+namespace Servie.ServiceWebAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

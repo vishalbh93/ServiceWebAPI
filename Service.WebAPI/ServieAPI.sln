@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service.WebAPI", "Service.WebAPI.csproj", "{6ED29522-2F68-4230-AF89-1FE92EC07FB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service.ServiceWebAPI", "Service.ServiceWebAPI.csproj", "{6ED29522-2F68-4230-AF89-1FE92EC07FB4}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service.DaataAccess", "..\Service.DaataAccess\Service.DaataAccess.csproj", "{5E92A883-7EB7-4F61-A5F6-82613A2E975F}"
 EndProject

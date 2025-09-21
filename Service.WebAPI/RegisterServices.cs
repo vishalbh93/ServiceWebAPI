@@ -4,7 +4,7 @@ using Service.Generativelogic.AccountService;
 using Service.Generativelogic.Interfaces;
 using System.Text;
 
-namespace Servie.WebAPI
+namespace Servie.ServiceWebAPI
 {
     public class RegisterServices
     {
